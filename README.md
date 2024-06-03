@@ -1,16 +1,13 @@
-## Hi there 👋
+Sejam bem-vindos ao meu perfil 
 
-<!--
-**imBeyah/imBeyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabrielle Beatriz
+estudo na escola Emilía Crem dos Santos Professora
+estudo pela plataforma Alura
+estou me desenvolvendo na linguagem JavaScript
+utilizo este espaço para a organização dos meus projetos
 
-Here are some ideas to get you started:
+entre em contato comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001247917174sp@al.educacao.sp.gov.br
+
+@im_beatrizxs
